@@ -1,4 +1,4 @@
- # 서수빈 | Master's Student 👋
+# 서수빈 | Master's Student 👋
 
   > Federated learning and large language models for real-world AI applications.
 
@@ -22,13 +22,16 @@
   - Personalized federated learning framework for wearable sensor-based Human Activity Recognition
   - Tech: Python · PyTorch
 
-  ## 🏆 Awards
-  - 수상 내역을 여기에 추가하세요
-
+  ## 📜 Certifications
+  - 정보처리기사
+  - ADsP (데이터분석 준전문가)
+  - 빅데이터분석기사
+  - Microsoft Azure Data Fundamentals (DP-900)
+  
   ## 🛠 Skills
   Python · PyTorch · Git
 
   ## 📫 Contact
   - Email: tnqls8465@naver.com
   - [Google Scholar](https://scholar.google.com/citations?user=077-AN4AAAAJ&hl=ko)
-  - [ORCID](https://orcid.org/0009-0001-3681-4079)
+  - [ORCID](https://orcid.org/0009-0001-3681-4029)
