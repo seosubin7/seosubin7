@@ -1,30 +1,33 @@
 # 서수빈 | Master's Student 👋
 
-> 연구 분야를 한 문장으로 소개합니다.
+  > Federated learning and large language models for real-world AI applications.
 
-## 🔬 Research Interests
-- Computer Vision
-- Deep Learning
-- Safety Monitoring
+  ## 🔬 Research Interests
+  - Deep Learning
+  - Federated Learning
+  - Large Language Models
 
-## 📄 Publications
-- 논문 제목 — 학회명, 연도  
-  [Paper] | [Code] | [Project Page]
+  ## 📄 Publications
+  - **A Performance Comparison of Prompt Tuning with Self-Consistency for Korean MRC**
+    SB Seo, SW Park, CB Sim, SH Jung — Journal of Korea Multimedia Society, 2025
+    [Paper]
 
-## 🚀 Research Projects
-### Swimming Pool Safety System
-- 위험 상황 탐지 시스템
-- Role: 모델 개발 및 데이터 분석
-- Tech: Python, PyTorch, OpenCV
-- [Repository]
+  - **Gemma2 2B Model Optimization for Long Context Processing Using BigBird**
+    SB Seo, SW Park, K Heon-Ju, SM Kim, MH Byeon, CB Sim, SH Jung — KICS Conference, 2025
+    [Paper]
 
-## 🏆 Awards
-- 수상 내역
+  ## 🚀 Research Projects
+  ### [FedRAPT](https://github.com/seosubin7/FedRAPT)
+  - Personalized federated learning framework for wearable sensor-based Human Activity Recognition
+  - Tech: Python · PyTorch
 
-## 🛠 Skills
-Python · PyTorch · SQL · Git · Docker
+  ## 🏆 Awards
+  - 수상 내역을 여기에 추가하세요
 
-## 📫 Contact
-- Email
-- Google Scholar
-- ORCID
+  ## 🛠 Skills
+  Python · PyTorch · Git
+
+  ## 📫 Contact
+  - Email: tnqls8465@naver.com
+  - [Google Scholar](https://scholar.google.com/citations?user=077-AN4AAAAJ&hl=ko)
+  - [ORCID](https://orcid.org/0009-0001-3681-4079)
