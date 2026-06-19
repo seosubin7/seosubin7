@@ -36,16 +36,12 @@ for heterogeneous data and real-world applications.
 
 ## 👩‍💻 About Me
 
-I am a master's student interested in developing practical artificial intelligence systems that can operate effectively in real-world environments.
+I am a master's student researching **personalized federated learning** and **federated unlearning** for heterogeneous and non-IID data.
 
-My current research focuses on personalized federated learning and federated unlearning, particularly for heterogeneous and non-IID data. I am also interested in large language models, prompt tuning, machine learning, deep learning, and big data analytics.
+I am also interested in **LLMs, prompt tuning, deep learning, and big data analytics**, with a focus on practical AI applications.
 
-🔭 Currently researching Personalized Federated Learning
-🔐 Exploring Federated Unlearning and Privacy-aware AI
-💬 Interested in Large Language Models and Prompt Tuning
-🧠 Working with Machine Learning and Deep Learning Models
-📊 Experienced in Big Data Analytics and Model Evaluation
-🤝 Open to research collaboration and technical discussions
+* 🔭 Current focus: **Federated Learning & Federated Unlearning**
+* 🤝 Open to research collaboration and technical discussions
 
 ---
 
