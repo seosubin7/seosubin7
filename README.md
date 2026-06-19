@@ -6,6 +6,7 @@
   - Deep Learning
   - Federated Learning
   - Large Language Models
+  - Data Analysis
 
   ## 📄 Publications
   - **A Performance Comparison of Prompt Tuning with Self-Consistency for Korean MRC**
