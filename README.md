@@ -3,21 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Subin%20Seo&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Master's%20Student%20%7C%20AI%20Researcher&descSize=19&descAlignY=56&animation=fadeIn" width="100%" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Personalized+Federated+Learning;Large+Language+Models+%26+Deep+Learning;Human-Centered+AI+Research;Building+AI+for+Real-World+Applications" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Personalized+Federated+Learning;Large+Language+Models+%26+Deep+Learning;Prompt+Tuning+%26+Long-context+Processing;Building+AI+for+Real-World+Applications" alt="Typing SVG"/>
 </a>
 
 <br>
 
 <p>
-  I am a master's student researching
-  <b>Federated Learning</b>,
-  <b>Large Language Models</b>, and
-  <b>real-world AI applications</b>.
+I am a master's student researching<br>
+<b>Federated Learning</b>, <b>Large Language Models</b>, and <b>Deep Learning</b>.
 </p>
 
 <p>
-  My research focuses on developing personalized and efficient AI systems<br>
-  for heterogeneous, privacy-sensitive, and human-centered data.
+My research focuses on developing personalized and efficient AI systems<br>
+for heterogeneous data and real-world applications.
 </p>
 
 <br>
@@ -40,12 +38,12 @@
 
 I am a master's student interested in developing practical AI systems that can operate effectively in real-world environments.
 
-My current research focuses on **personalized federated learning**, particularly for heterogeneous and non-IID user data. I am also interested in **large language model optimization**, **long-context processing**, and **wearable sensor-based human activity recognition**.
+My current research focuses on **personalized federated learning**, particularly for heterogeneous and non-IID user data. I am also interested in **large language model optimization**, **prompt tuning**, **long-context processing**, and **data-driven performance analysis**.
 
 * 🔭 Currently researching **Personalized Federated Learning**
-* 🧠 Interested in **LLMs, Deep Learning, and Model Optimization**
-* ⌚ Working with **Wearable Sensor and Human Activity Data**
-* 🔐 Exploring **Privacy-preserving and Distributed AI**
+* 🧠 Interested in **Large Language Models and Deep Learning**
+* 💬 Exploring **Prompt Tuning and Long-context Processing**
+* 📊 Experienced in **Data Analysis and Model Evaluation**
 * 🤝 Open to research collaboration and technical discussions
 
 ---
@@ -56,66 +54,54 @@ My current research focuses on **personalized federated learning**, particularly
 
 <table>
 <tr>
-<td align="center" width="230">
+<td align="center" width="270">
 <br>
-<img src="https://img.icons8.com/fluency/48/network.png" width="45" alt="Federated Learning"/>
-<h3>Federated Learning</h3>
-Personalization<br>
-Non-IID Data<br>
+
+### 🌐 Federated Learning
+
+Personalization
+Non-IID Data
 Privacy-preserving AI
-<br><br>
+
+<br>
 </td>
 
-<td align="center" width="230">
+<td align="center" width="270">
 <br>
-<img src="https://img.icons8.com/fluency/48/chatgpt.png" width="45" alt="Large Language Models"/>
-<h3>Large Language Models</h3>
-Prompt Tuning<br>
-Long-context Processing<br>
+
+### 💬 Large Language Models
+
+Prompt Tuning
+Long-context Processing
 Efficient LLMs
-<br><br>
-</td>
 
-<td align="center" width="230">
 <br>
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="45" alt="Deep Learning"/>
-<h3>Deep Learning</h3>
-Model Optimization<br>
-Representation Learning<br>
-Neural Networks
-<br><br>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="230">
+<td align="center" width="270">
 <br>
-<img src="https://img.icons8.com/fluency/48/smart-watch.png" width="45" alt="Wearable AI"/>
-<h3>Wearable AI</h3>
-Sensor Data<br>
-Human Activity Recognition<br>
-Personalized Models
-<br><br>
+
+### 🧠 Deep Learning
+
+Model Optimization
+Representation Learning
+Neural Networks
+
+<br>
 </td>
 
-<td align="center" width="230">
+<td align="center" width="270">
 <br>
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="45" alt="Data Analysis"/>
-<h3>Data Analysis</h3>
-Real-world Data<br>
-Experimental Analysis<br>
+
+### 📊 Data Analysis
+
+Real-world Data
+Experimental Analysis
 Performance Evaluation
-<br><br>
-</td>
 
-<td align="center" width="230">
 <br>
-<img src="https://img.icons8.com/fluency/48/cloud-computing.png" width="45" alt="Distributed AI"/>
-<h3>Distributed AI</h3>
-Collaborative Learning<br>
-Edge Intelligence<br>
-Decentralized Systems
-<br><br>
 </td>
 </tr>
 </table>
@@ -190,13 +176,13 @@ Decentralized Systems
 
 ## FedRAPT
 
-### Personalized Federated Learning for Wearable Sensor-based
+### Personalized Federated Learning for
 
-### Human Activity Recognition
+### Wearable Sensor-based Human Activity Recognition
 
-<img src="https://img.shields.io/badge/Status-Active%20Research-22C55E?style=flat-square" alt="Active Research"/>
-<img src="https://img.shields.io/badge/Domain-Wearable%20AI-0891B2?style=flat-square" alt="Wearable AI"/>
-<img src="https://img.shields.io/badge/Task-Human%20Activity%20Recognition-7C3AED?style=flat-square" alt="Human Activity Recognition"/>
+<img src="https://img.shields.io/badge/Status-Research%20Project-22C55E?style=flat-square" alt="Research Project"/>
+<img src="https://img.shields.io/badge/Domain-Federated%20Learning-7C3AED?style=flat-square" alt="Federated Learning"/>
+<img src="https://img.shields.io/badge/Task-Human%20Activity%20Recognition-0891B2?style=flat-square" alt="Human Activity Recognition"/>
 
 </div>
 
@@ -220,7 +206,6 @@ The project explores how personalized models can improve recognition performance
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Federated%20Learning-7C3AED?style=for-the-badge" alt="Federated Learning"/>
-  <img src="https://img.shields.io/badge/Wearable%20Sensors-0891B2?style=for-the-badge" alt="Wearable Sensors"/>
 </p>
 
 <div align="center">
@@ -263,7 +248,7 @@ The project explores how personalized models can improve recognition performance
 
 <br><br>
 
-### Development Environment
+### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" alt="Development Tools"/>
 
@@ -280,42 +265,27 @@ The project explores how personalized models can improve recognition performance
 <th align="left">Certification</th>
 <th align="left">Issuing Organization</th>
 </tr>
+
 <tr>
 <td>Engineer Information Processing</td>
 <td>Human Resources Development Service of Korea</td>
 </tr>
+
 <tr>
 <td>Advanced Data Analytics Semi-Professional · ADsP</td>
 <td>Korea Data Agency</td>
 </tr>
+
 <tr>
 <td>Big Data Analysis Engineer</td>
 <td>Korea Data Agency</td>
 </tr>
+
 <tr>
 <td>Microsoft Azure Data Fundamentals · DP-900</td>
 <td>Microsoft</td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=seosubin7&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub Statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seosubin7&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most Used Languages"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=seosubin7&hide_border=true&theme=transparent" height="170" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seosubin7&bg_color=transparent&color=7C3AED&line=7C3AED&point=EC4899&area=true&hide_border=true" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -327,7 +297,7 @@ The project explores how personalized models can improve recognition performance
 
 <p>
 I am open to research collaboration and discussions on<br>
-federated learning, large language models, wearable AI, and real-world AI applications.
+federated learning, large language models, deep learning, and real-world AI applications.
 </p>
 
 <a href="mailto:tnqls8465@naver.com">
