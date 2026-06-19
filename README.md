@@ -1,4 +1,4 @@
-# 서수빈 | Master's Student 👋
+ # 서수빈 | Master's Student 👋
 
   > Federated learning and large language models for real-world AI applications.
 
@@ -11,11 +11,11 @@
   ## 📄 Publications
   - **A Performance Comparison of Prompt Tuning with Self-Consistency for Korean MRC**
     SB Seo, SW Park, CB Sim, SH Jung — Journal of Korea Multimedia Society, 2025
-    [Paper]
+    [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12417471)
 
   - **Gemma2 2B Model Optimization for Long Context Processing Using BigBird**
     SB Seo, SW Park, K Heon-Ju, SM Kim, MH Byeon, CB Sim, SH Jung — KICS Conference, 2025
-    [Paper]
+    [Paper](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12131957)
 
   ## 🚀 Research Projects
   ### [FedRAPT](https://github.com/seosubin7/FedRAPT)
