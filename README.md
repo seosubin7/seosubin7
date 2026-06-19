@@ -54,55 +54,55 @@ My current research focuses on **personalized federated learning**, particularly
 
 <table>
 <tr>
-<td align="center" width="270">
+
+<td align="center" width="180">
 <br>
 
 ### 🌐 Federated Learning
 
-Personalization
-Non-IID Data
+Personalization<br>
+Non-IID Data<br>
 Privacy-preserving AI
 
 <br>
 </td>
 
-<td align="center" width="270">
+<td align="center" width="180">
 <br>
 
 ### 💬 Large Language Models
 
-Prompt Tuning
-Long-context Processing
+Prompt Tuning<br>
+Long-context Processing<br>
 Efficient LLMs
 
 <br>
 </td>
-</tr>
 
-<tr>
-<td align="center" width="270">
+<td align="center" width="180">
 <br>
 
 ### 🧠 Deep Learning
 
-Model Optimization
-Representation Learning
+Model Optimization<br>
+Representation Learning<br>
 Neural Networks
 
 <br>
 </td>
 
-<td align="center" width="270">
+<td align="center" width="180">
 <br>
 
 ### 📊 Data Analysis
 
-Real-world Data
-Experimental Analysis
+Real-world Data<br>
+Experimental Analysis<br>
 Performance Evaluation
 
 <br>
 </td>
+
 </tr>
 </table>
 
