@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=230&section=header&text=Subin%20Seo&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Master's%20Student%20%7C%20AI%20Researcher&descSize=19&descAlignY=56&animation=fadeIn" width="100%" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=650&lines=Personalized+Federated+Learning;Large+Language+Models+%26+Deep+Learning;Prompt+Tuning+%26+Long-context+Processing;Building+AI+for+Real-World+Applications" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1200&color=7C3AED&center=true&vCenter=true&width=850&lines=Federated+Learning;Federated+Unlearning;LLM+%26+Prompt+Tuning;Machine+Learning+%26+Deep+Learning;Big+Data+Analytics" alt="Typing SVG"/>
 </a>
 
 <br>
@@ -14,7 +14,7 @@ I am a master's student researching<br>
 </p>
 
 <p>
-My research focuses on developing personalized and efficient AI systems<br>
+My research focuses on developing personalized, efficient, and privacy-aware AI systems<br>
 for heterogeneous data and real-world applications.
 </p>
 
@@ -36,14 +36,15 @@ for heterogeneous data and real-world applications.
 
 ## 👩‍💻 About Me
 
-I am a master's student interested in developing practical AI systems that can operate effectively in real-world environments.
+I am a master's student interested in developing practical artificial intelligence systems that can operate effectively in real-world environments.
 
-My current research focuses on **personalized federated learning**, particularly for heterogeneous and non-IID user data. I am also interested in **large language model optimization**, **prompt tuning**, **long-context processing**, and **data-driven performance analysis**.
+My current research focuses on **personalized federated learning** and **federated unlearning**, particularly for heterogeneous and non-IID data. I am also interested in **large language models**, **prompt tuning**, **machine learning**, **deep learning**, and **big data analytics**.
 
 * 🔭 Currently researching **Personalized Federated Learning**
-* 🧠 Interested in **Large Language Models and Deep Learning**
-* 💬 Exploring **Prompt Tuning and Long-context Processing**
-* 📊 Experienced in **Data Analysis and Model Evaluation**
+* 🔐 Exploring **Federated Unlearning and Privacy-aware AI**
+* 💬 Interested in **Large Language Models and Prompt Tuning**
+* 🧠 Working with **Machine Learning and Deep Learning Models**
+* 📊 Experienced in **Big Data Analytics and Model Evaluation**
 * 🤝 Open to research collaboration and technical discussions
 
 ---
@@ -55,50 +56,62 @@ My current research focuses on **personalized federated learning**, particularly
 <table>
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="160">
 <br>
 
 ### 🌐 Federated Learning
 
 Personalization<br>
 Non-IID Data<br>
-Privacy-preserving AI
+Collaborative Learning
 
 <br>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="160">
 <br>
 
-### 💬 Large Language Models
+### 🔐 Federated Unlearning
 
-Prompt Tuning<br>
+Data Removal<br>
+Privacy Preservation<br>
+Machine Unlearning
+
+<br>
+</td>
+
+<td align="center" width="160">
+<br>
+
+### 💬 LLM & Prompt Tuning
+
+Prompt Optimization<br>
 Long-context Processing<br>
 Efficient LLMs
 
 <br>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="160">
 <br>
 
-### 🧠 Deep Learning
+### 🧠 ML & Deep Learning
 
 Model Optimization<br>
-Representation Learning<br>
-Neural Networks
+Neural Networks<br>
+Performance Evaluation
 
 <br>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="160">
 <br>
 
-### 📊 Data Analysis
+### 📊 Big Data Analytics
 
-Real-world Data<br>
+Data Processing<br>
 Experimental Analysis<br>
-Performance Evaluation
+Data-driven Insights
 
 <br>
 </td>
@@ -251,11 +264,23 @@ The project explores how personalized models can improve recognition performance
 
 <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="PyTorch"/>
 &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=for-the-badge" height="42" alt="Machine Learning"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" height="42" alt="Deep Learning"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge" height="42" alt="Large Language Models"/>
-&nbsp;&nbsp;
+
+<br><br>
+
+### Research Areas
+
 <img src="https://img.shields.io/badge/Federated%20Learning-4F46E5?style=for-the-badge" height="42" alt="Federated Learning"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Federated%20Unlearning-DC2626?style=for-the-badge" height="42" alt="Federated Unlearning"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Prompt%20Tuning-EC4899?style=for-the-badge" height="42" alt="Prompt Tuning"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Big%20Data%20Analytics-0891B2?style=for-the-badge" height="42" alt="Big Data Analytics"/>
 
 <br><br>
 
@@ -308,7 +333,7 @@ The project explores how personalized models can improve recognition performance
 
 <p>
 I am open to research collaboration and discussions on<br>
-federated learning, large language models, deep learning, and real-world AI applications.
+federated learning, federated unlearning, large language models, and data analytics.
 </p>
 
 <a href="mailto:tnqls8465@naver.com">
