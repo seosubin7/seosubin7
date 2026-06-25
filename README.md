@@ -299,7 +299,7 @@ The project explores how personalized models can improve recognition performance
 </tr>
 
 <tr>
-<td>Engineer Information Processing</td>
+<td>정보처리기사</td>
 <td>Human Resources Development Service of Korea</td>
 </tr>
 
@@ -309,7 +309,7 @@ The project explores how personalized models can improve recognition performance
 </tr>
 
 <tr>
-<td>Big Data Analysis Engineer</td>
+<td>빅데이터분석기사</td>
 <td>Korea Data Agency</td>
 </tr>
 
