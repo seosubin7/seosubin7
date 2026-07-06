@@ -237,8 +237,8 @@ The project explores how personalized models can improve recognition performance
 
 |    Period    | Project                      |           Role           | Contribution                                  |  Funding Organization  |
 | :----------: | ---------------------------- | :----------------------: | --------------------------------------------- | :--------------------: |
-| 2025–Present | **[Official Project Title]** | Participating Researcher | Model development and experimental evaluation | [Funding Organization] |
-|   2024–2025  | **[Official Project Title]** | Participating Researcher | Data analysis and performance evaluation      | [Funding Organization] |
+| 2025–Present | **[Official Project Title]** | Participating Researcher |  | [Funding Organization] |
+|   2024–2025  | **[Official Project Title]** | Participating Researcher |       | [Funding Organization] |
 
 > Only publicly available project information is included.
 
